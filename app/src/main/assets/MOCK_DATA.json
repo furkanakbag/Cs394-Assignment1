@@ -1,0 +1,22 @@
+[
+  {"id":1, "title":"Maintain stability in challenging situations", "description":"Stay calm and balanced, even in difficult times, focusing on key priorities.", "dueDate":"6/5/2024", "isCompleted":true},
+  {"id":2, "title":"Develop a proactive mindset", "description":"Prepare in advance to tackle upcoming challenges effectively.", "dueDate":"12/4/2023", "isCompleted":false},
+  {"id":3, "title":"Focus on core objectives", "description":"Concentrate on the main goals without getting distracted by minor issues.", "dueDate":"11/8/2024", "isCompleted":true},
+  {"id":4, "title":"Improve interpersonal communication", "description":"Enhance skills in effective communication to foster teamwork and collaboration.", "dueDate":"6/9/2024", "isCompleted":true},
+  {"id":5, "title":"Promote teamwork and unity", "description":"Build a cohesive team environment, encouraging support and collaboration.", "dueDate":"8/11/2024", "isCompleted":false},
+  {"id":6, "title":"Strengthen decision-making skills", "description":"Develop clear and effective decision-making strategies for complex situations.", "dueDate":"7/1/2024", "isCompleted":false},
+  {"id":7, "title":"Focus on continuous improvement", "description":"Work on incremental improvements and adaptability in processes.", "dueDate":"6/20/2024", "isCompleted":false},
+  {"id":8, "title":"Enhance project management abilities", "description":"Refine skills in managing timelines, budgets, and resources effectively.", "dueDate":"5/19/2024", "isCompleted":false},
+  {"id":9, "title":"Cultivate resilience", "description":"Develop the ability to recover quickly from setbacks and remain focused.", "dueDate":"10/26/2024", "isCompleted":true},
+  {"id":10, "title":"Strengthen adaptability", "description":"Learn to adjust plans and approaches when facing unexpected challenges.", "dueDate":"1/28/2024", "isCompleted":false},
+  {"id":11, "title":"Encourage innovative thinking", "description":"Foster a creative approach to solving problems and generating new ideas.", "dueDate":"7/1/2024", "isCompleted":true},
+  {"id":12, "title":"Develop strategic planning skills", "description":"Create clear long-term plans and set achievable goals to ensure progress.", "dueDate":"8/30/2024", "isCompleted":false},
+  {"id":13, "title":"Enhance time management", "description":"Work on effectively prioritizing tasks and meeting deadlines.", "dueDate":"7/24/2024", "isCompleted":true},
+  {"id":14, "title":"Build a positive work environment", "description":"Encourage a supportive and motivating environment for all team members.", "dueDate":"5/11/2024", "isCompleted":true},
+  {"id":15, "title":"Refine analytical skills", "description":"Improve ability to analyze situations and make informed decisions.", "dueDate":"5/23/2024", "isCompleted":true},
+  {"id":16, "title":"Promote personal development", "description":"Invest time in developing new skills and self-improvement.", "dueDate":"11/15/2023", "isCompleted":true},
+  {"id":17, "title":"Strengthen negotiation skills", "description":"Learn techniques to reach mutually beneficial agreements.", "dueDate":"8/9/2024", "isCompleted":true},
+  {"id":18, "title":"Focus on customer satisfaction", "description":"Prioritize customer needs and feedback to improve service quality.", "dueDate":"4/6/2024", "isCompleted":true},
+  {"id":19, "title":"Enhance critical thinking", "description":"Develop the ability to assess situations critically and make sound judgments.", "dueDate":"11/9/2023", "isCompleted":false},
+  {"id":20, "title":"Promote effective leadership", "description":"Work on leading by example and inspiring others to achieve their best.", "dueDate":"9/1/2024", "isCompleted":true}
+]
